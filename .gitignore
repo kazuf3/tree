@@ -1,0 +1,9 @@
+/.bsp/
+target/
+/.bloop/
+/.metals/
+/src/main/scala/.metals/
+/project/.bloop/
+/project/Dependencies.scala
+/project/metals.sbt
+/project/project/
